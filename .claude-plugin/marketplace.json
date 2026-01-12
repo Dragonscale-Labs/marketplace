@@ -1,0 +1,25 @@
+{
+  "name": "dragonscale",
+  "owner": {
+    "name": "ndx"
+  },
+  "metadata": {
+    "description": "Dragonscale plugin collection for Claude Code"
+  },
+  "plugins": [
+    {
+      "name": "icon-new",
+      "source": {
+        "source": "github",
+        "repo": "netdragonx/icon-new-plugin"
+      },
+      "description": "Generate icons using the icon.new AI service",
+      "version": "1.0.0",
+      "author": {
+        "name": "ndx"
+      },
+      "homepage": "https://icon.new",
+      "keywords": ["icon", "icons", "ai", "design", "generator"]
+    }
+  ]
+}
