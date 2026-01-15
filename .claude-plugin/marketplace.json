@@ -8,10 +8,10 @@
   },
   "plugins": [
     {
-      "name": "icon-new",
+      "name": "icon",
       "source": {
         "source": "github",
-        "repo": "netdragonx/icon-new-plugin"
+        "repo": "dragonscale-labs/icon-new-plugin"
       },
       "description": "Generate icons using the icon.new AI service",
       "version": "1.0.0",
@@ -20,6 +20,20 @@
       },
       "homepage": "https://icon.new",
       "keywords": ["icon", "icons", "ai", "design", "generator"]
+    },
+    {
+      "name": "icon-x402",
+      "source": {
+        "source": "github",
+        "repo": "dragonscale-labs/icon-new-x402-plugin"
+      },
+      "description": "Generate icons using the icon.new AI service with x402 USDC payments on Base",
+      "version": "1.0.0",
+      "author": {
+        "name": "ndx"
+      },
+      "homepage": "https://icon.new",
+      "keywords": ["icon", "icons", "ai", "design", "generator", "x402", "usdc", "base", "crypto"]
     }
   ]
 }
