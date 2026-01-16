@@ -8,6 +8,29 @@
   },
   "plugins": [
     {
+      "name": "planning",
+      "source": {
+        "source": "github",
+        "repo": "dragonscale-labs/planning-plugin"
+      },
+      "description": "Planning tool for well-engineered projects",
+      "version": "1.0.0",
+      "author": {
+        "name": "ndx"
+      },
+      "homepage": "https://dragonscale.xyz",
+      "keywords": [
+        "planning",
+        "project",
+        "management",
+        "engineering",
+        "agile",
+        "scrum",
+        "linear",
+        "jira"
+      ]
+    },
+    {
       "name": "icon",
       "source": {
         "source": "github",
