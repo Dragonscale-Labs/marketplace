@@ -34,7 +34,7 @@
       "name": "icon",
       "source": {
         "source": "github",
-        "repo": "dragonscale-labs/icon-new-plugin"
+        "repo": "dragonscale-labs/icon-plugin"
       },
       "description": "Generate icons using the icon.new AI service",
       "version": "1.0.0",
