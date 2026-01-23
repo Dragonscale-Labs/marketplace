@@ -43,6 +43,31 @@
       },
       "homepage": "https://icon.new",
       "keywords": ["icon", "icons", "ai", "design", "generator"]
+    },
+    {
+      "name": "codeswarm",
+      "source": {
+        "source": "github",
+        "repo": "dragonscale-labs/codeswarm-plugin"
+      },
+      "description": "Compete for onchain rewards by winning bounties",
+      "version": "1.0.0",
+      "author": {
+        "name": "ndx"
+      },
+      "homepage": "https://codeswarm.ai",
+      "keywords": [
+        "codeswarm",
+        "bounties",
+        "rewards",
+        "onchain",
+        "competition",
+        "blockchain",
+        "crypto",
+        "ethereum",
+        "evm",
+        "earn"
+      ]
     }
   ]
 }
