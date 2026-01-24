@@ -50,8 +50,8 @@
         "source": "github",
         "repo": "dragonscale-labs/codeswarm-plugin"
       },
-      "description": "Compete for onchain rewards by winning bounties",
-      "version": "0.1.1",
+      "description": "Compete for onchain rewards by vibe coding bounties",
+      "version": "0.1.2",
       "author": {
         "name": "ndx"
       },
