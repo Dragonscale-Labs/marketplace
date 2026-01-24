@@ -51,7 +51,7 @@
         "repo": "dragonscale-labs/codeswarm-plugin"
       },
       "description": "Compete for onchain rewards by winning bounties",
-      "version": "1.0.0",
+      "version": "0.1.1",
       "author": {
         "name": "ndx"
       },
